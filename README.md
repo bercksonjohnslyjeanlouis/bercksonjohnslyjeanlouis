@@ -1,4 +1,4 @@
-<h3 align="center">Technology & Management</h3>
+
 
 <p align="left"> <a href="https://twitter.com/bercksonjohnsly" target="blank"><img src="https://img.shields.io/twitter/follow/bercksonjohnsly?logo=twitter&style=for-the-badge" alt="bercksonjohnsly" /></a> </p>
 
