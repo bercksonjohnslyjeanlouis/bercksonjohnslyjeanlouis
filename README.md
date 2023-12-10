@@ -22,7 +22,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Desanm 2023 : koudèy sou rapò moun ak teknoloji](https://www.linkedin.com/pulse/desanm-2023-koud%C3%A8y-sou-rap%C3%B2-moun-ak-teknoloji-jean-louis-kdtae)
+- [DE CELLES QUI OSENT : Du divertissement mais pas que](https://www.linkedin.com/pulse/de-celles-qui-osent-du-divertissement-mais-pas-que-jean-louis-duese)
 - [Geek &amp;&amp; Romantique : deux versions complémentaires d’un système fonctionnel !](https://dev.to/bercksonjohnslyjeanlouis/geek-romantique-deux-versions-complementaires-dun-systeme-fonctionnel--1246)
+- [Geek &amp;&amp; Romantique : deux versions complémentaires d’un système fonctionnel !](https://www.linkedin.com/pulse/geek-romantique-deux-versions-compl%C3%A9mentaires-dun-jean-louis-uazde)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
