@@ -11,4 +11,4 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "10"
-                feed_list: "https://dev.to/feed/bercksonjohnslyjeanlouis, https://medium.com/feed/@bercksonjohnslyjeanlouis, https://linkedinrss.cns.me/7029083089146400768"
+                feed_list: "https://linkedinrss.cns.me/7029083089146400768"
