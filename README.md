@@ -22,6 +22,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Mes vingt-trois raisons pour dire un bel adieu à 2023](https://www.linkedin.com/pulse/mes-vingt-trois-raisons-pour-dire-un-bel-adieu-%C3%A0-2023-jean-louis-iizoe)
 - [Desanm 2023 : koudèy sou rapò moun ak teknoloji](https://www.linkedin.com/pulse/desanm-2023-koud%C3%A8y-sou-rap%C3%B2-moun-ak-teknoloji-jean-louis-kdtae)
 - [DE CELLES QUI OSENT : Du divertissement mais pas que](https://www.linkedin.com/pulse/de-celles-qui-osent-du-divertissement-mais-pas-que-jean-louis-duese)
 - [Geek &amp;&amp; Romantique : deux versions complémentaires d’un système fonctionnel !](https://www.linkedin.com/pulse/geek-romantique-deux-versions-compl%C3%A9mentaires-dun-jean-louis-uazde)
