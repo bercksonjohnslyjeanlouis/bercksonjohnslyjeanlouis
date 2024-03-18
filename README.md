@@ -22,11 +22,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Prévenir vaut mieux que guérir ! Criminalité et sécurité dans la juridiction du Cap-Haïtien au cœur du mémoire de licence de maître Judenel JEAN.](https://www.linkedin.com/pulse/pr%C3%A9venir-vaut-mieux-que-gu%C3%A9rir-criminalit%C3%A9-et-dans-la-jean-louis-fpfbe)
 - [Robinson ACHILLE désormais licencié en psychologie. He did it !](https://www.linkedin.com/pulse/robinson-achille-d%C3%A9sormais-licenci%C3%A9-en-psychologie-he-jean-louis-vlchc)
 - [Mes vingt-trois raisons pour dire un bel adieu à 2023](https://www.linkedin.com/pulse/mes-vingt-trois-raisons-pour-dire-un-bel-adieu-%C3%A0-2023-jean-louis-iizoe)
 - [Desanm 2023 : koudèy sou rapò moun ak teknoloji](https://www.linkedin.com/pulse/desanm-2023-koud%C3%A8y-sou-rap%C3%B2-moun-ak-teknoloji-jean-louis-kdtae)
 - [DE CELLES QUI OSENT : Du divertissement mais pas que](https://www.linkedin.com/pulse/de-celles-qui-osent-du-divertissement-mais-pas-que-jean-louis-duese)
-- [Geek &amp;&amp; Romantique : deux versions complémentaires d’un système fonctionnel !](https://www.linkedin.com/pulse/geek-romantique-deux-versions-compl%C3%A9mentaires-dun-jean-louis-uazde)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
